@@ -20,3 +20,9 @@
 <div>- Rate : the frequency of LFO</div>
 <div>- Width : the Magnitude of LFO</div>
 <div>- Regen : feedback</div>
+
+<h2>· Toggle switch (⇄):</h2>
+<p1>Allows user to change the order of the effects.</p1>
+
+<h2>· Volume slider:</h2>
+<p1>Allows user to change the output volume.</p1>
